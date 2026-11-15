@@ -8,10 +8,6 @@
       "url": "https://github.com/nlohmann/json/releases/download/v3.12.0/json.tar.xz",
       "hash": "sha256-tOInM4YYi/cbHCWP2R0jlFzlaTN0ZVgHFMWagz9Wnvk="
     },
-    "dr_libs": {
-      "url": "https://github.com/mackron/dr_libs/archive/cd99e2cca5ccb48f8d000f1cd844424dcdbbaf59.tar.gz",
-      "hash": "sha256-MbeC6gGz68bto0MK0xFb9iQ65w8uN7Vm7ZxYZj7IT+8="
-    },
     "miniaudio": {
       "url": "https://github.com/mackron/miniaudio/archive/refs/tags/0.11.25.tar.gz",
       "hash": "sha256-2k346Z/ueINPbaY20P2cbBvRfFXXH0ugdv4d7WaYt2w="
